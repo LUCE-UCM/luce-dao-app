@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import CssBaseline from "@mui/material/CssBaseline";
 import App from "./App";
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(

@@ -17,7 +17,7 @@ const LightTooltip = styled(({ className, ...props }) => (
 }));
 
 const Footer = () => {
-  const srcGitHubImg = "/images/github-icon.svg";
+  const srcGitHubImg = "./luce-dao-app/images/github-icon.svg";
 
   return (
     <>
@@ -26,7 +26,7 @@ const Footer = () => {
           <LightTooltip title="¿Qué es LUCE?" placement="left">
             <Link
               color="inherit"
-              href="https://jljorro.github.io/luce-web/"
+              href="https://luce-ucm.github.io/luce-web/"
               target="_blank"
               underline="none"
             >
