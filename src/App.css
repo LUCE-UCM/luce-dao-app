@@ -1,0 +1,24 @@
+body {
+  font-family: "Roboto";
+}
+
+/***Material UI Fab button***/
+.MuiFab-primary {
+  color: #fff !important;
+  background-color: #aa4994 !important;
+}
+
+.MuiFab-primary:disabled {
+  background-color: #ebe8f0 !important;
+}
+
+/*** Material UI Form button style ***/
+.MuiButton-containedPrimary {
+  color: #fff;
+  background-color: #aa4994 !important;
+}
+
+/***Form field disabled***/
+.MuiInputBase-root.Mui-disabled {
+  cursor: not-allowed !important;
+}
