@@ -17,7 +17,7 @@ const LightTooltip = styled(({ className, ...props }) => (
 }));
 
 const Footer = () => {
-  const srcGitHubImg = "./luce-dao-app/images/github-icon.svg";
+  const srcGitHubImg = "images/github-icon.svg";
 
   return (
     <>

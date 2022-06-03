@@ -7,7 +7,7 @@ import Button from "@mui/material/Button";
 import Avatar from "@mui/material/Avatar";
 
 function MetaMaskConector() {
-  const srcMetaMaskFoxIcon = "./luce-dao-app/images/metamask-fox-icon.svg";
+  const srcMetaMaskFoxIcon = "images/metamask-fox-icon.svg";
 
   const [isMetaMaskInstalled, setIsMetaMaskInstalled] = useState(true);
   const [isValidNetwork, setIsValidNetwork] = useState(true);

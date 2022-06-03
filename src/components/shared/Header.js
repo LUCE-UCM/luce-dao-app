@@ -5,7 +5,7 @@ import { AppBar, Toolbar, Link, Typography, Tooltip } from "@mui/material";
 import HelpIcon from "@mui/icons-material/Help";
 
 const Header = () => {
-  const srcLUCELogo = "./luce-dao-app/images/logo-luce.png";
+  const srcLUCELogo = "images/logo-luce.png";
 
   return (
     <>
