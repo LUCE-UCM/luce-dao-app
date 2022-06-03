@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/luce-dao-app/static/css/main.864adaf9.chunk.css",
+    "main.js": "/luce-dao-app/static/js/main.c8f97be9.chunk.js",
+    "main.js.map": "/luce-dao-app/static/js/main.c8f97be9.chunk.js.map",
+    "runtime-main.js": "/luce-dao-app/static/js/runtime-main.dbd4c8cc.js",
+    "runtime-main.js.map": "/luce-dao-app/static/js/runtime-main.dbd4c8cc.js.map",
+    "static/js/2.79763c45.chunk.js": "/luce-dao-app/static/js/2.79763c45.chunk.js",
+    "static/js/2.79763c45.chunk.js.map": "/luce-dao-app/static/js/2.79763c45.chunk.js.map",
+    "static/js/3.4049aefa.chunk.js": "/luce-dao-app/static/js/3.4049aefa.chunk.js",
+    "static/js/3.4049aefa.chunk.js.map": "/luce-dao-app/static/js/3.4049aefa.chunk.js.map",
+    "index.html": "/luce-dao-app/index.html",
+    "static/css/main.864adaf9.chunk.css.map": "/luce-dao-app/static/css/main.864adaf9.chunk.css.map",
+    "static/js/2.79763c45.chunk.js.LICENSE.txt": "/luce-dao-app/static/js/2.79763c45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbd4c8cc.js",
+    "static/js/2.79763c45.chunk.js",
+    "static/css/main.864adaf9.chunk.css",
+    "static/js/main.c8f97be9.chunk.js"
+  ]
+}
